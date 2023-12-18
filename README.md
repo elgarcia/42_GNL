@@ -23,4 +23,4 @@ What we want to make sure on this project is to allocate enough memory (just the
 
 🧾  **Auxiliar Function** 🧾
 
-See libft project to get info. -> [Elgarcia's libft](https://github.com/elgarcia/42_Libft[)
+See libft project to get info. -> [Elgarcia's libft](https://github.com/elgarcia/42_Libft)
